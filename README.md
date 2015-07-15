@@ -1,2 +1,2 @@
 # SubredditTheme
-Theme for the /r/TemporalReality subreddit. Base them is /r/Naut
+Theme for the /r/TemporalReality subreddit. Base theme is /r/Naut
