@@ -1,0 +1,21 @@
+/* TEMPORAL REALITY */
+body { background-color: #344152; }
+.redditname { color: #A020F0; }
+.redditname a { color: #A020F0; }
+.redditname a:hover {
+    color:  #A020F0;
+    text-decoration: none;
+}
+.morelink { background-color: #516AE8; }
+.title { color: #af26ff !important; }
+.footer-parent .title { color: #777 !important; }
+.titlebox .fancy-toggle-button .remove { background-color: #1C1E22; }
+.comment-visits-box { display: none; }
+.thing { background-color: #253244; }
+.thing .entry { border-color: #253244; }
+
+.flair-founder { color: #ae3ef9; }
+.flair-moderator { color: #00a500; }
+.flair-web-dev { color: #d1eeee; }
+.flair-pack-dev { color: #ffcb30; }
+.flair-mod-dev { color: #5b4cff; }
